@@ -77,7 +77,7 @@ a:link, a:visited {
 /*Hero content*/
 
 .bannerpagecontent {
-    background-image: url("/hero.png");
+    background-image: url("/images/hero.png");
     height: 600px;
     width: 100%;
     background-position: center;
